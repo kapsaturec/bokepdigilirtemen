@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://bokepdigilirtemen.pages.dev/sitemap.xml
